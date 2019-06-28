@@ -1,3 +1,9 @@
+"Must install vundle instructions ->
+"https://github.com/VundleVim/Vundle.vim#about
+"
+"Must install YouCompleteMe ->
+"https://github.com/ycm-core/YouCompleteMe#installation
+
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
